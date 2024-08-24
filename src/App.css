@@ -50,3 +50,23 @@
   scale: 1.2;
   transition: all 0.5s ease;
 }
+
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.home button {
+  font-size: 24px;
+  color: white;
+  background-color: rgb(3, 2, 60);
+  padding: 5px 10px;
+  border-radius: 10px;
+  border: none;
+}
+
+.home img {
+  height: 80px;
+}

@@ -1,0 +1,12 @@
+    // <div>
+    //   <h3>Home</h3>
+    //   {currUser ? (
+    //     <div>
+    //       <Link to={`/readtasks`}></Link>
+    //       <h2>hello {currUser.displayName}</h2>
+    //       <button onClick={handleSignOut}>Sign Out</button>
+    //     </div>
+    //   ) : (
+    //     <button onClick={handleSignIn}>Sign In</button>
+    //   )}
+    // </div>
